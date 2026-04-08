@@ -4,5 +4,3 @@ __pycache__/
 .vscode/
 dump.vcd
 sim_*
-generated RTL/**
-testbench/**
